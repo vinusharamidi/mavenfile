@@ -3,4 +3,5 @@ Finance team
  Lisa
  John
  Amanda
-
+ maria
+ sofia
